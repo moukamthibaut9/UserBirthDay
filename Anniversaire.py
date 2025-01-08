@@ -13,12 +13,12 @@ surface=(window_w,window_h)
 frame_sec=pygame.time.Clock()
 
 # Parametres de personnalisation du programme
-user_name1 = "MOUKAM" # Premier nom de l'utilisateur conserné
-user_name2 = "YAMBEUA"
-user_name3 = "THIBAUT"
-user_name1_offset_value = (window_w/2)-47*dcx # Valeur du décalage par rapport à la gauche du premier nom 
-user_name2_offset_value = (window_w/2)-50*dcx # Valeur du décalage par rapport à la gauche du deuxieme nom 
-user_name3_offset_value = (window_w/2)-45*dcx # Valeur du décalage par rapport à la gauche du troisieme nom 
+user_name1 = "BELINGA" # Premier nom de l'utilisateur conserné
+user_name2 = "TRAORE" # Deuxieme nom de l'utilisateur conserné
+user_name3 = "Jislain" # Troisieme nom de l'utilisateur conserné
+user_name1_offset_value = 17.5*dcx # Valeur du décalage par rapport à la gauche du premier nom 
+user_name2_offset_value = 19*dcx # Valeur du décalage par rapport à la gauche du deuxieme nom 
+user_name3_offset_value = 17.5*dcx # Valeur du décalage par rapport à la gauche du troisieme nom 
 window_title = f"JOURNEE SPECIALE {user_name1}" # Titre de la fenetre
 # Fin parametrage
 
